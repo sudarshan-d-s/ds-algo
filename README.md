@@ -19,3 +19,5 @@ My accepted leetcode solutions to some of the common interview problems.
 #### [Other Problems](src/other)
 - [Find Maximum Stock Profit](src/other/BuyAndSellStock.java)
 - [Number of Palindrome Sub Strings](src/other/PalindromeSubStrings.java)
+
+.
